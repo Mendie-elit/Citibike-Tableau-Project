@@ -1,0 +1,1015 @@
+﻿Origin/Destination,start station name,Route,start station latitude,start station longitude
+Origin,Grove St PATH,Grove St PATH_to_Grove St PATH,40.71958612,-74.04311746
+Destination,Grove St PATH,Grove St PATH_to_Grove St PATH,40.72159752,-74.04681146
+Origin,Grove St PATH,Grove St PATH_to_5 Corners Library,40.71958612,-74.04311746
+Destination,5 Corners Library,Grove St PATH_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Grove St PATH,Grove St PATH_to_Astor Place,40.71958612,-74.04311746
+Destination,Astor Place,Grove St PATH_to_Astor Place,40.7192822,-74.07126188
+Origin,Grove St PATH,Grove St PATH_to_Baldwin at Montgomery,40.71958612,-74.04311746
+Destination,Baldwin at Montgomery,Grove St PATH_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Grove St PATH,Grove St PATH_to_Bergen Ave,40.71958612,-74.04311746
+Destination,Bergen Ave,Grove St PATH_to_Bergen Ave,40.72210379,-74.071455
+Origin,Grove St PATH,Grove St PATH_to_Brunswick & 6th,40.71958612,-74.04311746
+Destination,Brunswick & 6th,Grove St PATH_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Grove St PATH,Grove St PATH_to_Brunswick St,40.71958612,-74.04311746
+Destination,Brunswick St,Grove St PATH_to_Brunswick St,40.7241765,-74.0506564
+Origin,Grove St PATH,Grove St PATH_to_Christ Hospital,40.71958612,-74.04311746
+Destination,Christ Hospital,Grove St PATH_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Grove St PATH,Grove St PATH_to_City Hall,40.71958612,-74.04311746
+Destination,City Hall,Grove St PATH_to_City Hall,40.7177325,-74.043845
+Origin,Grove St PATH,Grove St PATH_to_Columbus Drive,40.71958612,-74.04311746
+Destination,Columbus Drive,Grove St PATH_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Grove St PATH,Grove St PATH_to_Communipaw & Berry Lane,40.71958612,-74.04311746
+Destination,Communipaw & Berry Lane,Grove St PATH_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Grove St PATH,Grove St PATH_to_Dey St,40.71958612,-74.04311746
+Destination,Dey St,Grove St PATH_to_Dey St,40.737711,-74.066921
+Origin,Grove St PATH,Grove St PATH_to_Dixon Mills,40.71958612,-74.04311746
+Destination,Dixon Mills,Grove St PATH_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Grove St PATH,Grove St PATH_to_E 20 St & FDR Drive,40.71958612,-74.04311746
+Destination,E 20 St & FDR Drive,Grove St PATH_to_E 20 St & FDR Drive,40.73314259,-73.97573881
+Origin,Grove St PATH,Grove St PATH_to_Essex Light Rail,40.71958612,-74.04311746
+Destination,Essex Light Rail,Grove St PATH_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Grove St PATH,Grove St PATH_to_Exchange Place,40.71958612,-74.04311746
+Destination,Exchange Place,Grove St PATH_to_Exchange Place,40.7162469,-74.0334588
+Origin,Grove St PATH,Grove St PATH_to_Fairmount Ave,40.71958612,-74.04311746
+Destination,Fairmount Ave,Grove St PATH_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Grove St PATH,Grove St PATH_to_Gansevoort St & Hudson St,40.71958612,-74.04311746
+Destination,Gansevoort St & Hudson St,Grove St PATH_to_Gansevoort St & Hudson St,40.7394482,-74.00507033
+Origin,Grove St PATH,Grove St PATH_to_Glenwood Ave,40.71958612,-74.04311746
+Destination,Glenwood Ave,Grove St PATH_to_Glenwood Ave,40.72755147,-74.07106072
+Origin,Grove St PATH,Grove St PATH_to_Grand St,40.71958612,-74.04311746
+Destination,Grand St,Grove St PATH_to_Grand St,40.71517768,-74.03768331
+Origin,Grove St PATH,Grove St PATH_to_Grove St PATH,40.71958612,-74.04311746
+Destination,Grove St PATH,Grove St PATH_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Grove St PATH,Grove St PATH_to_Hamilton Park,40.71958612,-74.04311746
+Destination,Hamilton Park,Grove St PATH_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Grove St PATH,Grove St PATH_to_Harborside,40.71958612,-74.04311746
+Destination,Harborside,Grove St PATH_to_Harborside,40.7192517,-74.034234
+Origin,Grove St PATH,Grove St PATH_to_Heights Elevator,40.71958612,-74.04311746
+Destination,Heights Elevator,Grove St PATH_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Grove St PATH,Grove St PATH_to_Hilltop,40.71958612,-74.04311746
+Destination,Hilltop,Grove St PATH_to_Hilltop,40.7311689,-74.0575736
+Origin,Grove St PATH,Grove St PATH_to_Hoboken Ave at Monmouth St,40.71958612,-74.04311746
+Destination,Hoboken Ave at Monmouth St,Grove St PATH_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Grove St PATH,Grove St PATH_to_Jackson Square,40.71958612,-74.04311746
+Destination,Jackson Square,Grove St PATH_to_Jackson Square,40.71113,-74.0789
+Origin,Grove St PATH,Grove St PATH_to_JC Medical Center,40.71958612,-74.04311746
+Destination,JC Medical Center,Grove St PATH_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Grove St PATH,Grove St PATH_to_JCBS Depot,40.71958612,-74.04311746
+Destination,JCBS Depot,Grove St PATH_to_JCBS Depot,40.70965083,-74.06860113
+Origin,Grove St PATH,Grove St PATH_to_Jersey & 3rd,40.71958612,-74.04311746
+Destination,Jersey & 3rd,Grove St PATH_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Grove St PATH,Grove St PATH_to_Jersey & 6th St,40.71958612,-74.04311746
+Destination,Jersey & 6th St,Grove St PATH_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Grove St PATH,Grove St PATH_to_Journal Square,40.71958612,-74.04311746
+Destination,Journal Square,Grove St PATH_to_Journal Square,40.73367,-74.0625
+Origin,Grove St PATH,Grove St PATH_to_Lafayette Park,40.71958612,-74.04311746
+Destination,Lafayette Park,Grove St PATH_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Grove St PATH,Grove St PATH_to_Leonard Gordon Park,40.71958612,-74.04311746
+Destination,Leonard Gordon Park,Grove St PATH_to_Leonard Gordon Park,40.74590997,-74.05727148
+Origin,Grove St PATH,Grove St PATH_to_Liberty Light Rail,40.71958612,-74.04311746
+Destination,Liberty Light Rail,Grove St PATH_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Grove St PATH,Grove St PATH_to_Lincoln Park,40.71958612,-74.04311746
+Destination,Lincoln Park,Grove St PATH_to_Lincoln Park,40.7246051,-74.07840595
+Origin,Grove St PATH,Grove St PATH_to_Manila & 1st,40.71958612,-74.04311746
+Destination,Manila & 1st,Grove St PATH_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Grove St PATH,Grove St PATH_to_Marin Light Rail,40.71958612,-74.04311746
+Destination,Marin Light Rail,Grove St PATH_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Grove St PATH,Grove St PATH_to_McGinley Square,40.71958612,-74.04311746
+Destination,McGinley Square,Grove St PATH_to_McGinley Square,40.72533993,-74.06762213
+Origin,Grove St PATH,Grove St PATH_to_Monmouth and 6th,40.71958612,-74.04311746
+Destination,Monmouth and 6th,Grove St PATH_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Grove St PATH,Grove St PATH_to_Montgomery St,40.71958612,-74.04311746
+Destination,Montgomery St,Grove St PATH_to_Montgomery St,40.71942,-74.05099
+Origin,Grove St PATH,Grove St PATH_to_Morris Canal,40.71958612,-74.04311746
+Destination,Morris Canal,Grove St PATH_to_Morris Canal,40.71241882,-74.03852552
+Origin,Grove St PATH,Grove St PATH_to_Newark Ave,40.71958612,-74.04311746
+Destination,Newark Ave,Grove St PATH_to_Newark Ave,40.72152515,-74.04630454
+Origin,Grove St PATH,Grove St PATH_to_Newport PATH,40.71958612,-74.04311746
+Destination,Newport PATH,Grove St PATH_to_Newport PATH,40.7272235,-74.0337589
+Origin,Grove St PATH,Grove St PATH_to_Newport Pkwy,40.71958612,-74.04311746
+Destination,Newport Pkwy,Grove St PATH_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Grove St PATH,Grove St PATH_to_Oakland Ave,40.71958612,-74.04311746
+Destination,Oakland Ave,Grove St PATH_to_Oakland Ave,40.7376037,-74.0524783
+Origin,Grove St PATH,Grove St PATH_to_Paulus Hook,40.71958612,-74.04311746
+Destination,Paulus Hook,Grove St PATH_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Grove St PATH,Grove St PATH_to_Pershing Field,40.71958612,-74.04311746
+Destination,Pershing Field,Grove St PATH_to_Pershing Field,40.74267714,-74.05178863
+Origin,Grove St PATH,Grove St PATH_to_Riverview Park,40.71958612,-74.04311746
+Destination,Riverview Park,Grove St PATH_to_Riverview Park,40.7443187,-74.0439909
+Origin,Grove St PATH,Grove St PATH_to_Sip Ave,40.71958612,-74.04311746
+Destination,Sip Ave,Grove St PATH_to_Sip Ave,40.73085296,-74.06387585
+Origin,Grove St PATH,Grove St PATH_to_Union St,40.71958612,-74.04311746
+Destination,Union St,Grove St PATH_to_Union St,40.7182113,-74.0836394
+Origin,Grove St PATH,Grove St PATH_to_Van Vorst Park,40.71958612,-74.04311746
+Destination,Van Vorst Park,Grove St PATH_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Grove St PATH,Grove St PATH_to_Warren St,40.71958612,-74.04311746
+Destination,Warren St,Grove St PATH_to_Warren St,40.7211236,-74.03805095
+Origin,Grove St PATH,Grove St PATH_to_Washington St,40.71958612,-74.04311746
+Destination,Washington St,Grove St PATH_to_Washington St,40.7242941,-74.0354826
+Origin,Grove St PATH,Grove St PATH_to_York St,40.71958612,-74.04311746
+Destination,York St,Grove St PATH_to_York St,40.71649,-74.04105
+Origin,Hamilton Park,Hamilton Park_to_Hamilton Park,40.72759597,-74.04424731
+Destination,Hamilton Park,Hamilton Park_to_Hamilton Park,40.72115185,-74.04210998
+Origin,Hamilton Park,Hamilton Park_to_5 Corners Library,40.72759597,-74.04424731
+Destination,5 Corners Library,Hamilton Park_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Hamilton Park,Hamilton Park_to_Astor Place,40.72759597,-74.04424731
+Destination,Astor Place,Hamilton Park_to_Astor Place,40.7192822,-74.07126188
+Origin,Hamilton Park,Hamilton Park_to_Baldwin at Montgomery,40.72759597,-74.04424731
+Destination,Baldwin at Montgomery,Hamilton Park_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Hamilton Park,Hamilton Park_to_Bergen Ave,40.72759597,-74.04424731
+Destination,Bergen Ave,Hamilton Park_to_Bergen Ave,40.72210379,-74.071455
+Origin,Hamilton Park,Hamilton Park_to_Brunswick & 6th,40.72759597,-74.04424731
+Destination,Brunswick & 6th,Hamilton Park_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Hamilton Park,Hamilton Park_to_Brunswick St,40.72759597,-74.04424731
+Destination,Brunswick St,Hamilton Park_to_Brunswick St,40.7241765,-74.0506564
+Origin,Hamilton Park,Hamilton Park_to_Christ Hospital,40.72759597,-74.04424731
+Destination,Christ Hospital,Hamilton Park_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Hamilton Park,Hamilton Park_to_City Hall,40.72759597,-74.04424731
+Destination,City Hall,Hamilton Park_to_City Hall,40.7177325,-74.043845
+Origin,Hamilton Park,Hamilton Park_to_Columbus Drive,40.72759597,-74.04424731
+Destination,Columbus Drive,Hamilton Park_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Hamilton Park,Hamilton Park_to_Dixon Mills,40.72759597,-74.04424731
+Destination,Dixon Mills,Hamilton Park_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Hamilton Park,Hamilton Park_to_Essex Light Rail,40.72759597,-74.04424731
+Destination,Essex Light Rail,Hamilton Park_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Hamilton Park,Hamilton Park_to_Exchange Place,40.72759597,-74.04424731
+Destination,Exchange Place,Hamilton Park_to_Exchange Place,40.7162469,-74.0334588
+Origin,Hamilton Park,Hamilton Park_to_Glenwood Ave,40.72759597,-74.04424731
+Destination,Glenwood Ave,Hamilton Park_to_Glenwood Ave,40.72755147,-74.07106072
+Origin,Hamilton Park,Hamilton Park_to_Grand St,40.72759597,-74.04424731
+Destination,Grand St,Hamilton Park_to_Grand St,40.71517768,-74.03768331
+Origin,Hamilton Park,Hamilton Park_to_Grove St PATH,40.72759597,-74.04424731
+Destination,Grove St PATH,Hamilton Park_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Hamilton Park,Hamilton Park_to_Hamilton Park,40.72759597,-74.04424731
+Destination,Hamilton Park,Hamilton Park_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Hamilton Park,Hamilton Park_to_Harborside,40.72759597,-74.04424731
+Destination,Harborside,Hamilton Park_to_Harborside,40.7192517,-74.034234
+Origin,Hamilton Park,Hamilton Park_to_Heights Elevator,40.72759597,-74.04424731
+Destination,Heights Elevator,Hamilton Park_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Hamilton Park,Hamilton Park_to_Hilltop,40.72759597,-74.04424731
+Destination,Hilltop,Hamilton Park_to_Hilltop,40.7311689,-74.0575736
+Origin,Hamilton Park,Hamilton Park_to_Hoboken Ave at Monmouth St,40.72759597,-74.04424731
+Destination,Hoboken Ave at Monmouth St,Hamilton Park_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Hamilton Park,Hamilton Park_to_Jackson Square,40.72759597,-74.04424731
+Destination,Jackson Square,Hamilton Park_to_Jackson Square,40.71113,-74.0789
+Origin,Hamilton Park,Hamilton Park_to_JC Medical Center,40.72759597,-74.04424731
+Destination,JC Medical Center,Hamilton Park_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Hamilton Park,Hamilton Park_to_JCBS Depot,40.72759597,-74.04424731
+Destination,JCBS Depot,Hamilton Park_to_JCBS Depot,40.70965083,-74.06860113
+Origin,Hamilton Park,Hamilton Park_to_Jersey & 3rd,40.72759597,-74.04424731
+Destination,Jersey & 3rd,Hamilton Park_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Hamilton Park,Hamilton Park_to_Jersey & 6th St,40.72759597,-74.04424731
+Destination,Jersey & 6th St,Hamilton Park_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Hamilton Park,Hamilton Park_to_Journal Square,40.72759597,-74.04424731
+Destination,Journal Square,Hamilton Park_to_Journal Square,40.73367,-74.0625
+Origin,Hamilton Park,Hamilton Park_to_Lafayette Park,40.72759597,-74.04424731
+Destination,Lafayette Park,Hamilton Park_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Hamilton Park,Hamilton Park_to_Liberty Light Rail,40.72759597,-74.04424731
+Destination,Liberty Light Rail,Hamilton Park_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Hamilton Park,Hamilton Park_to_Lincoln Park,40.72759597,-74.04424731
+Destination,Lincoln Park,Hamilton Park_to_Lincoln Park,40.7246051,-74.07840595
+Origin,Hamilton Park,Hamilton Park_to_Manila & 1st,40.72759597,-74.04424731
+Destination,Manila & 1st,Hamilton Park_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Hamilton Park,Hamilton Park_to_Marin Light Rail,40.72759597,-74.04424731
+Destination,Marin Light Rail,Hamilton Park_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Hamilton Park,Hamilton Park_to_McGinley Square,40.72759597,-74.04424731
+Destination,McGinley Square,Hamilton Park_to_McGinley Square,40.72533993,-74.06762213
+Origin,Hamilton Park,Hamilton Park_to_Monmouth and 6th,40.72759597,-74.04424731
+Destination,Monmouth and 6th,Hamilton Park_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Hamilton Park,Hamilton Park_to_Montgomery St,40.72759597,-74.04424731
+Destination,Montgomery St,Hamilton Park_to_Montgomery St,40.71942,-74.05099
+Origin,Hamilton Park,Hamilton Park_to_Morris Canal,40.72759597,-74.04424731
+Destination,Morris Canal,Hamilton Park_to_Morris Canal,40.71241882,-74.03852552
+Origin,Hamilton Park,Hamilton Park_to_Newark Ave,40.72759597,-74.04424731
+Destination,Newark Ave,Hamilton Park_to_Newark Ave,40.72152515,-74.04630454
+Origin,Hamilton Park,Hamilton Park_to_Newport PATH,40.72759597,-74.04424731
+Destination,Newport PATH,Hamilton Park_to_Newport PATH,40.7272235,-74.0337589
+Origin,Hamilton Park,Hamilton Park_to_Newport Pkwy,40.72759597,-74.04424731
+Destination,Newport Pkwy,Hamilton Park_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Hamilton Park,Hamilton Park_to_Oakland Ave,40.72759597,-74.04424731
+Destination,Oakland Ave,Hamilton Park_to_Oakland Ave,40.7376037,-74.0524783
+Origin,Hamilton Park,Hamilton Park_to_Paulus Hook,40.72759597,-74.04424731
+Destination,Paulus Hook,Hamilton Park_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Hamilton Park,Hamilton Park_to_Pershing Field,40.72759597,-74.04424731
+Destination,Pershing Field,Hamilton Park_to_Pershing Field,40.74267714,-74.05178863
+Origin,Hamilton Park,Hamilton Park_to_Riverview Park,40.72759597,-74.04424731
+Destination,Riverview Park,Hamilton Park_to_Riverview Park,40.7443187,-74.0439909
+Origin,Hamilton Park,Hamilton Park_to_Sip Ave,40.72759597,-74.04424731
+Destination,Sip Ave,Hamilton Park_to_Sip Ave,40.73086984,-74.06388991
+Origin,Hamilton Park,Hamilton Park_to_South St & Gouverneur Ln,40.72759597,-74.04424731
+Destination,South St & Gouverneur Ln,Hamilton Park_to_South St & Gouverneur Ln,40.70355377,-74.00670227
+Origin,Hamilton Park,Hamilton Park_to_Van Vorst Park,40.72759597,-74.04424731
+Destination,Van Vorst Park,Hamilton Park_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Hamilton Park,Hamilton Park_to_Vesey Pl & River Terrace,40.72759597,-74.04424731
+Destination,Vesey Pl & River Terrace,Hamilton Park_to_Vesey Pl & River Terrace,40.7153379,-74.01658354
+Origin,Hamilton Park,Hamilton Park_to_Warren St,40.72759597,-74.04424731
+Destination,Warren St,Hamilton Park_to_Warren St,40.7211236,-74.03805095
+Origin,Hamilton Park,Hamilton Park_to_Washington St,40.72759597,-74.04424731
+Destination,Washington St,Hamilton Park_to_Washington St,40.7242941,-74.0354826
+Origin,Hamilton Park,Hamilton Park_to_York St,40.72759597,-74.04424731
+Destination,York St,Hamilton Park_to_York St,40.71649,-74.04105
+Origin,Harborside,Harborside_to_Harborside,40.7192517,-74.034234
+Destination,Harborside,Harborside_to_Harborside,40.72240237,-74.04084433
+Origin,Harborside,Harborside_to_5 Corners Library,40.7192517,-74.034234
+Destination,5 Corners Library,Harborside_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Harborside,Harborside_to_Astor Place,40.7192517,-74.034234
+Destination,Astor Place,Harborside_to_Astor Place,40.7192822,-74.07126188
+Origin,Harborside,Harborside_to_Baldwin at Montgomery,40.7192517,-74.034234
+Destination,Baldwin at Montgomery,Harborside_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Harborside,Harborside_to_Bergen Ave,40.7192517,-74.034234
+Destination,Bergen Ave,Harborside_to_Bergen Ave,40.72210379,-74.071455
+Origin,Harborside,Harborside_to_Brunswick & 6th,40.7192517,-74.034234
+Destination,Brunswick & 6th,Harborside_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Harborside,Harborside_to_Brunswick St,40.7192517,-74.034234
+Destination,Brunswick St,Harborside_to_Brunswick St,40.7241765,-74.0506564
+Origin,Harborside,Harborside_to_Christ Hospital,40.7192517,-74.034234
+Destination,Christ Hospital,Harborside_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Harborside,Harborside_to_City Hall,40.7192517,-74.034234
+Destination,City Hall,Harborside_to_City Hall,40.7177325,-74.043845
+Origin,Harborside,Harborside_to_Columbus Drive,40.7192517,-74.034234
+Destination,Columbus Drive,Harborside_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Harborside,Harborside_to_Communipaw & Berry Lane,40.7192517,-74.034234
+Destination,Communipaw & Berry Lane,Harborside_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Harborside,Harborside_to_Dey St,40.7192517,-74.034234
+Destination,Dey St,Harborside_to_Dey St,40.737711,-74.066921
+Origin,Harborside,Harborside_to_Dixon Mills,40.7192517,-74.034234
+Destination,Dixon Mills,Harborside_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Harborside,Harborside_to_E 20 St & FDR Drive,40.7192517,-74.034234
+Destination,E 20 St & FDR Drive,Harborside_to_E 20 St & FDR Drive,40.73314259,-73.97573881
+Origin,Harborside,Harborside_to_Essex Light Rail,40.7192517,-74.034234
+Destination,Essex Light Rail,Harborside_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Harborside,Harborside_to_Exchange Place,40.7192517,-74.034234
+Destination,Exchange Place,Harborside_to_Exchange Place,40.7162469,-74.0334588
+Origin,Harborside,Harborside_to_Fairmount Ave,40.7192517,-74.034234
+Destination,Fairmount Ave,Harborside_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Harborside,Harborside_to_Grand St,40.7192517,-74.034234
+Destination,Grand St,Harborside_to_Grand St,40.71517768,-74.03768331
+Origin,Harborside,Harborside_to_Grove St PATH,40.7192517,-74.034234
+Destination,Grove St PATH,Harborside_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Harborside,Harborside_to_Hamilton Park,40.7192517,-74.034234
+Destination,Hamilton Park,Harborside_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Harborside,Harborside_to_Harborside,40.7192517,-74.034234
+Destination,Harborside,Harborside_to_Harborside,40.7192517,-74.034234
+Origin,Harborside,Harborside_to_Heights Elevator,40.7192517,-74.034234
+Destination,Heights Elevator,Harborside_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Harborside,Harborside_to_Hilltop,40.7192517,-74.034234
+Destination,Hilltop,Harborside_to_Hilltop,40.7311689,-74.0575736
+Origin,Harborside,Harborside_to_Hoboken Ave at Monmouth St,40.7192517,-74.034234
+Destination,Hoboken Ave at Monmouth St,Harborside_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Harborside,Harborside_to_Jackson Square,40.7192517,-74.034234
+Destination,Jackson Square,Harborside_to_Jackson Square,40.71113,-74.0789
+Origin,Harborside,Harborside_to_JC Medical Center,40.7192517,-74.034234
+Destination,JC Medical Center,Harborside_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Harborside,Harborside_to_Jersey & 3rd,40.7192517,-74.034234
+Destination,Jersey & 3rd,Harborside_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Harborside,Harborside_to_Jersey & 6th St,40.7192517,-74.034234
+Destination,Jersey & 6th St,Harborside_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Harborside,Harborside_to_Journal Square,40.7192517,-74.034234
+Destination,Journal Square,Harborside_to_Journal Square,40.73367,-74.0625
+Origin,Harborside,Harborside_to_Lafayette Park,40.7192517,-74.034234
+Destination,Lafayette Park,Harborside_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Harborside,Harborside_to_Leonard Gordon Park,40.7192517,-74.034234
+Destination,Leonard Gordon Park,Harborside_to_Leonard Gordon Park,40.74590997,-74.05727148
+Origin,Harborside,Harborside_to_Liberty Light Rail,40.7192517,-74.034234
+Destination,Liberty Light Rail,Harborside_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Harborside,Harborside_to_Lincoln Park,40.7192517,-74.034234
+Destination,Lincoln Park,Harborside_to_Lincoln Park,40.7246051,-74.07840595
+Origin,Harborside,Harborside_to_Manila & 1st,40.7192517,-74.034234
+Destination,Manila & 1st,Harborside_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Harborside,Harborside_to_Marin Light Rail,40.7192517,-74.034234
+Destination,Marin Light Rail,Harborside_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Harborside,Harborside_to_McGinley Square,40.7192517,-74.034234
+Destination,McGinley Square,Harborside_to_McGinley Square,40.72533993,-74.06762213
+Origin,Harborside,Harborside_to_Monmouth and 6th,40.7192517,-74.034234
+Destination,Monmouth and 6th,Harborside_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Harborside,Harborside_to_Montgomery St,40.7192517,-74.034234
+Destination,Montgomery St,Harborside_to_Montgomery St,40.71942,-74.05099
+Origin,Harborside,Harborside_to_Morris Canal,40.7192517,-74.034234
+Destination,Morris Canal,Harborside_to_Morris Canal,40.71241882,-74.03852552
+Origin,Harborside,Harborside_to_Newark Ave,40.7192517,-74.034234
+Destination,Newark Ave,Harborside_to_Newark Ave,40.72152515,-74.04630454
+Origin,Harborside,Harborside_to_Newport PATH,40.7192517,-74.034234
+Destination,Newport PATH,Harborside_to_Newport PATH,40.7272235,-74.0337589
+Origin,Harborside,Harborside_to_Newport Pkwy,40.7192517,-74.034234
+Destination,Newport Pkwy,Harborside_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Harborside,Harborside_to_Oakland Ave,40.7192517,-74.034234
+Destination,Oakland Ave,Harborside_to_Oakland Ave,40.7376037,-74.0524783
+Origin,Harborside,Harborside_to_Paulus Hook,40.7192517,-74.034234
+Destination,Paulus Hook,Harborside_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Harborside,Harborside_to_Pershing Field,40.7192517,-74.034234
+Destination,Pershing Field,Harborside_to_Pershing Field,40.74267714,-74.05178863
+Origin,Harborside,Harborside_to_Riverview Park,40.7192517,-74.034234
+Destination,Riverview Park,Harborside_to_Riverview Park,40.7443187,-74.0439909
+Origin,Harborside,Harborside_to_Sip Ave,40.7192517,-74.034234
+Destination,Sip Ave,Harborside_to_Sip Ave,40.73086813,-74.06388849
+Origin,Harborside,Harborside_to_Union St,40.7192517,-74.034234
+Destination,Union St,Harborside_to_Union St,40.7182113,-74.0836394
+Origin,Harborside,Harborside_to_Van Vorst Park,40.7192517,-74.034234
+Destination,Van Vorst Park,Harborside_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Harborside,Harborside_to_Warren St,40.7192517,-74.034234
+Destination,Warren St,Harborside_to_Warren St,40.7211236,-74.03805095
+Origin,Harborside,Harborside_to_Washington St,40.7192517,-74.034234
+Destination,Washington St,Harborside_to_Washington St,40.7242941,-74.0354826
+Origin,Harborside,Harborside_to_York St,40.7192517,-74.034234
+Destination,York St,Harborside_to_York St,40.71649,-74.04105
+Origin,Liberty Light Rail,Liberty Light Rail_to_Liberty Light Rail,40.7112423,-74.0557013
+Destination,Liberty Light Rail,Liberty Light Rail_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Liberty Light Rail,Liberty Light Rail_to_5 Corners Library,40.7112423,-74.0557013
+Destination,5 Corners Library,Liberty Light Rail_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Liberty Light Rail,Liberty Light Rail_to_Astor Place,40.7112423,-74.0557013
+Destination,Astor Place,Liberty Light Rail_to_Astor Place,40.7192822,-74.07126188
+Origin,Liberty Light Rail,Liberty Light Rail_to_Baldwin at Montgomery,40.7112423,-74.0557013
+Destination,Baldwin at Montgomery,Liberty Light Rail_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Liberty Light Rail,Liberty Light Rail_to_Bergen Ave,40.7112423,-74.0557013
+Destination,Bergen Ave,Liberty Light Rail_to_Bergen Ave,40.72210379,-74.071455
+Origin,Liberty Light Rail,Liberty Light Rail_to_Brunswick & 6th,40.7112423,-74.0557013
+Destination,Brunswick & 6th,Liberty Light Rail_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Liberty Light Rail,Liberty Light Rail_to_Brunswick St,40.7112423,-74.0557013
+Destination,Brunswick St,Liberty Light Rail_to_Brunswick St,40.7241765,-74.0506564
+Origin,Liberty Light Rail,Liberty Light Rail_to_City Hall,40.7112423,-74.0557013
+Destination,City Hall,Liberty Light Rail_to_City Hall,40.7177325,-74.043845
+Origin,Liberty Light Rail,Liberty Light Rail_to_Columbus Drive,40.7112423,-74.0557013
+Destination,Columbus Drive,Liberty Light Rail_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Liberty Light Rail,Liberty Light Rail_to_Communipaw & Berry Lane,40.7112423,-74.0557013
+Destination,Communipaw & Berry Lane,Liberty Light Rail_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Liberty Light Rail,Liberty Light Rail_to_Dey St,40.7112423,-74.0557013
+Destination,Dey St,Liberty Light Rail_to_Dey St,40.737711,-74.066921
+Origin,Liberty Light Rail,Liberty Light Rail_to_Dixon Mills,40.7112423,-74.0557013
+Destination,Dixon Mills,Liberty Light Rail_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Liberty Light Rail,Liberty Light Rail_to_Essex Light Rail,40.7112423,-74.0557013
+Destination,Essex Light Rail,Liberty Light Rail_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Liberty Light Rail,Liberty Light Rail_to_Exchange Place,40.7112423,-74.0557013
+Destination,Exchange Place,Liberty Light Rail_to_Exchange Place,40.7162469,-74.0334588
+Origin,Liberty Light Rail,Liberty Light Rail_to_Fairmount Ave,40.7112423,-74.0557013
+Destination,Fairmount Ave,Liberty Light Rail_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Liberty Light Rail,Liberty Light Rail_to_Grand St,40.7112423,-74.0557013
+Destination,Grand St,Liberty Light Rail_to_Grand St,40.71517768,-74.03768331
+Origin,Liberty Light Rail,Liberty Light Rail_to_Grove St PATH,40.7112423,-74.0557013
+Destination,Grove St PATH,Liberty Light Rail_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Liberty Light Rail,Liberty Light Rail_to_Hamilton Park,40.7112423,-74.0557013
+Destination,Hamilton Park,Liberty Light Rail_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Liberty Light Rail,Liberty Light Rail_to_Harborside,40.7112423,-74.0557013
+Destination,Harborside,Liberty Light Rail_to_Harborside,40.7192517,-74.034234
+Origin,Liberty Light Rail,Liberty Light Rail_to_Heights Elevator,40.7112423,-74.0557013
+Destination,Heights Elevator,Liberty Light Rail_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Liberty Light Rail,Liberty Light Rail_to_Hilltop,40.7112423,-74.0557013
+Destination,Hilltop,Liberty Light Rail_to_Hilltop,40.7311689,-74.0575736
+Origin,Liberty Light Rail,Liberty Light Rail_to_Jackson Square,40.7112423,-74.0557013
+Destination,Jackson Square,Liberty Light Rail_to_Jackson Square,40.71113,-74.0789
+Origin,Liberty Light Rail,Liberty Light Rail_to_JC Medical Center,40.7112423,-74.0557013
+Destination,JC Medical Center,Liberty Light Rail_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Liberty Light Rail,Liberty Light Rail_to_JCBS Depot,40.7112423,-74.0557013
+Destination,JCBS Depot,Liberty Light Rail_to_JCBS Depot,40.70965083,-74.06860113
+Origin,Liberty Light Rail,Liberty Light Rail_to_Jersey & 3rd,40.7112423,-74.0557013
+Destination,Jersey & 3rd,Liberty Light Rail_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Liberty Light Rail,Liberty Light Rail_to_Jersey & 6th St,40.7112423,-74.0557013
+Destination,Jersey & 6th St,Liberty Light Rail_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Liberty Light Rail,Liberty Light Rail_to_Lafayette Park,40.7112423,-74.0557013
+Destination,Lafayette Park,Liberty Light Rail_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Liberty Light Rail,Liberty Light Rail_to_Liberty Light Rail,40.7112423,-74.0557013
+Destination,Liberty Light Rail,Liberty Light Rail_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Liberty Light Rail,Liberty Light Rail_to_Lincoln Park,40.7112423,-74.0557013
+Destination,Lincoln Park,Liberty Light Rail_to_Lincoln Park,40.7246051,-74.07840595
+Origin,Liberty Light Rail,Liberty Light Rail_to_Manila & 1st,40.7112423,-74.0557013
+Destination,Manila & 1st,Liberty Light Rail_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Liberty Light Rail,Liberty Light Rail_to_Marin Light Rail,40.7112423,-74.0557013
+Destination,Marin Light Rail,Liberty Light Rail_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Liberty Light Rail,Liberty Light Rail_to_McGinley Square,40.7112423,-74.0557013
+Destination,McGinley Square,Liberty Light Rail_to_McGinley Square,40.72533993,-74.06762213
+Origin,Liberty Light Rail,Liberty Light Rail_to_Mercer St & Spring St,40.7112423,-74.0557013
+Destination,Mercer St & Spring St,Liberty Light Rail_to_Mercer St & Spring St,40.72362738,-73.99949601
+Origin,Liberty Light Rail,Liberty Light Rail_to_Monmouth and 6th,40.7112423,-74.0557013
+Destination,Monmouth and 6th,Liberty Light Rail_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Liberty Light Rail,Liberty Light Rail_to_Montgomery St,40.7112423,-74.0557013
+Destination,Montgomery St,Liberty Light Rail_to_Montgomery St,40.71942,-74.05099
+Origin,Liberty Light Rail,Liberty Light Rail_to_Morris Canal,40.7112423,-74.0557013
+Destination,Morris Canal,Liberty Light Rail_to_Morris Canal,40.71241882,-74.03852552
+Origin,Liberty Light Rail,Liberty Light Rail_to_Newark Ave,40.7112423,-74.0557013
+Destination,Newark Ave,Liberty Light Rail_to_Newark Ave,40.72152515,-74.04630454
+Origin,Liberty Light Rail,Liberty Light Rail_to_Newport PATH,40.7112423,-74.0557013
+Destination,Newport PATH,Liberty Light Rail_to_Newport PATH,40.7272235,-74.0337589
+Origin,Liberty Light Rail,Liberty Light Rail_to_Newport Pkwy,40.7112423,-74.0557013
+Destination,Newport Pkwy,Liberty Light Rail_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Liberty Light Rail,Liberty Light Rail_to_Paulus Hook,40.7112423,-74.0557013
+Destination,Paulus Hook,Liberty Light Rail_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Liberty Light Rail,Liberty Light Rail_to_Pershing Field,40.7112423,-74.0557013
+Destination,Pershing Field,Liberty Light Rail_to_Pershing Field,40.74267714,-74.05178863
+Origin,Liberty Light Rail,Liberty Light Rail_to_Sip Ave,40.7112423,-74.0557013
+Destination,Sip Ave,Liberty Light Rail_to_Sip Ave,40.7308971,-74.06391263
+Origin,Liberty Light Rail,Liberty Light Rail_to_Union St,40.7112423,-74.0557013
+Destination,Union St,Liberty Light Rail_to_Union St,40.7182113,-74.0836394
+Origin,Liberty Light Rail,Liberty Light Rail_to_Van Vorst Park,40.7112423,-74.0557013
+Destination,Van Vorst Park,Liberty Light Rail_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Liberty Light Rail,Liberty Light Rail_to_Vesey Pl & River Terrace,40.7112423,-74.0557013
+Destination,Vesey Pl & River Terrace,Liberty Light Rail_to_Vesey Pl & River Terrace,40.7153379,-74.01658354
+Origin,Liberty Light Rail,Liberty Light Rail_to_Warren St,40.7112423,-74.0557013
+Destination,Warren St,Liberty Light Rail_to_Warren St,40.7211236,-74.03805095
+Origin,Liberty Light Rail,Liberty Light Rail_to_Washington St,40.7112423,-74.0557013
+Destination,Washington St,Liberty Light Rail_to_Washington St,40.7242941,-74.0354826
+Origin,Liberty Light Rail,Liberty Light Rail_to_West St & Chambers St,40.7112423,-74.0557013
+Destination,West St & Chambers St,Liberty Light Rail_to_West St & Chambers St,40.71754834,-74.01322069
+Origin,Liberty Light Rail,Liberty Light Rail_to_York St,40.7112423,-74.0557013
+Destination,York St,Liberty Light Rail_to_York St,40.71649,-74.04105
+Origin,Marin Light Rail,Marin Light Rail_toMarin Light Rail,40.71458404,-74.04281706
+Destination,Marin Light Rail,Marin Light Rail_toMarin Light Rail,40.71458404,-74.04281706
+Origin,Marin Light Rail,Marin Light Rail_to5 Corners Library,40.71458404,-74.04281706
+Destination,5 Corners Library,Marin Light Rail_to5 Corners Library,40.73496102,-74.05950308
+Origin,Marin Light Rail,Marin Light Rail_toAstor Place,40.71458404,-74.04281706
+Destination,Astor Place,Marin Light Rail_toAstor Place,40.7192822,-74.07126188
+Origin,Marin Light Rail,Marin Light Rail_toBaldwin at Montgomery,40.71458404,-74.04281706
+Destination,Baldwin at Montgomery,Marin Light Rail_toBaldwin at Montgomery,40.7236589,-74.0641943
+Origin,Marin Light Rail,Marin Light Rail_toBergen Ave,40.71458404,-74.04281706
+Destination,Bergen Ave,Marin Light Rail_toBergen Ave,40.72210379,-74.071455
+Origin,Marin Light Rail,Marin Light Rail_toBrunswick & 6th,40.71458404,-74.04281706
+Destination,Brunswick & 6th,Marin Light Rail_toBrunswick & 6th,40.72601173,-74.05038893
+Origin,Marin Light Rail,Marin Light Rail_toBrunswick St,40.71458404,-74.04281706
+Destination,Brunswick St,Marin Light Rail_toBrunswick St,40.7241765,-74.0506564
+Origin,Marin Light Rail,Marin Light Rail_toCity Hall,40.71458404,-74.04281706
+Destination,City Hall,Marin Light Rail_toCity Hall,40.7177325,-74.043845
+Origin,Marin Light Rail,Marin Light Rail_toColumbus Drive,40.71458404,-74.04281706
+Destination,Columbus Drive,Marin Light Rail_toColumbus Drive,40.7183552,-74.03891444
+Origin,Marin Light Rail,Marin Light Rail_toCommunipaw & Berry Lane,40.71458404,-74.04281706
+Destination,Communipaw & Berry Lane,Marin Light Rail_toCommunipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Marin Light Rail,Marin Light Rail_toDey St,40.71458404,-74.04281706
+Destination,Dey St,Marin Light Rail_toDey St,40.737711,-74.066921
+Origin,Marin Light Rail,Marin Light Rail_toDixon Mills,40.71458404,-74.04281706
+Destination,Dixon Mills,Marin Light Rail_toDixon Mills,40.72163014,-74.04996783
+Origin,Marin Light Rail,Marin Light Rail_toEssex Light Rail,40.71458404,-74.04281706
+Destination,Essex Light Rail,Marin Light Rail_toEssex Light Rail,40.7127742,-74.0364857
+Origin,Marin Light Rail,Marin Light Rail_toExchange Place,40.71458404,-74.04281706
+Destination,Exchange Place,Marin Light Rail_toExchange Place,40.7162469,-74.0334588
+Origin,Marin Light Rail,Marin Light Rail_toGlenwood Ave,40.71458404,-74.04281706
+Destination,Glenwood Ave,Marin Light Rail_toGlenwood Ave,40.72755147,-74.07106072
+Origin,Marin Light Rail,Marin Light Rail_toGrand St,40.71458404,-74.04281706
+Destination,Grand St,Marin Light Rail_toGrand St,40.71517768,-74.03768331
+Origin,Marin Light Rail,Marin Light Rail_toGrove St PATH,40.71458404,-74.04281706
+Destination,Grove St PATH,Marin Light Rail_toGrove St PATH,40.71958612,-74.04311746
+Origin,Marin Light Rail,Marin Light Rail_toHamilton Park,40.71458404,-74.04281706
+Destination,Hamilton Park,Marin Light Rail_toHamilton Park,40.72759597,-74.04424731
+Origin,Marin Light Rail,Marin Light Rail_toHarborside,40.71458404,-74.04281706
+Destination,Harborside,Marin Light Rail_toHarborside,40.7192517,-74.034234
+Origin,Marin Light Rail,Marin Light Rail_toHeights Elevator,40.71458404,-74.04281706
+Destination,Heights Elevator,Marin Light Rail_toHeights Elevator,40.74871595,-74.0404433
+Origin,Marin Light Rail,Marin Light Rail_toHilltop,40.71458404,-74.04281706
+Destination,Hilltop,Marin Light Rail_toHilltop,40.7311689,-74.0575736
+Origin,Marin Light Rail,Marin Light Rail_toHoboken Ave at Monmouth St,40.71458404,-74.04281706
+Destination,Hoboken Ave at Monmouth St,Marin Light Rail_toHoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Marin Light Rail,Marin Light Rail_toJackson Square,40.71458404,-74.04281706
+Destination,Jackson Square,Marin Light Rail_toJackson Square,40.71113,-74.0789
+Origin,Marin Light Rail,Marin Light Rail_toJC Medical Center,40.71458404,-74.04281706
+Destination,JC Medical Center,Marin Light Rail_toJC Medical Center,40.71653978,-74.04963791
+Origin,Marin Light Rail,Marin Light Rail_toJCBS Depot,40.71458404,-74.04281706
+Destination,JCBS Depot,Marin Light Rail_toJCBS Depot,40.70965083,-74.06860113
+Origin,Marin Light Rail,Marin Light Rail_toJersey & 3rd,40.71458404,-74.04281706
+Destination,Jersey & 3rd,Marin Light Rail_toJersey & 3rd,40.72333159,-74.04595256
+Origin,Marin Light Rail,Marin Light Rail_toJersey & 6th St,40.71458404,-74.04281706
+Destination,Jersey & 6th St,Marin Light Rail_toJersey & 6th St,40.72528911,-74.04557168
+Origin,Marin Light Rail,Marin Light Rail_toJournal Square,40.71458404,-74.04281706
+Destination,Journal Square,Marin Light Rail_toJournal Square,40.73367,-74.0625
+Origin,Marin Light Rail,Marin Light Rail_toLafayette Park,40.71458404,-74.04281706
+Destination,Lafayette Park,Marin Light Rail_toLafayette Park,40.71346383,-74.06285852
+Origin,Marin Light Rail,Marin Light Rail_toLiberty Light Rail,40.71458404,-74.04281706
+Destination,Liberty Light Rail,Marin Light Rail_toLiberty Light Rail,40.7112423,-74.0557013
+Origin,Marin Light Rail,Marin Light Rail_toLincoln Park,40.71458404,-74.04281706
+Destination,Lincoln Park,Marin Light Rail_toLincoln Park,40.7246051,-74.07840595
+Origin,Marin Light Rail,Marin Light Rail_toManila & 1st,40.71458404,-74.04281706
+Destination,Manila & 1st,Marin Light Rail_toManila & 1st,40.72165072,-74.04288411
+Origin,Marin Light Rail,Marin Light Rail_toMarin Light Rail,40.71458404,-74.04281706
+Destination,Marin Light Rail,Marin Light Rail_toMarin Light Rail,40.71458404,-74.04281706
+Origin,Marin Light Rail,Marin Light Rail_toMcGinley Square,40.71458404,-74.04281706
+Destination,McGinley Square,Marin Light Rail_toMcGinley Square,40.72533993,-74.06762213
+Origin,Marin Light Rail,Marin Light Rail_toMonmouth and 6th,40.71458404,-74.04281706
+Destination,Monmouth and 6th,Marin Light Rail_toMonmouth and 6th,40.72568548,-74.04879034
+Origin,Marin Light Rail,Marin Light Rail_toMontgomery St,40.71458404,-74.04281706
+Destination,Montgomery St,Marin Light Rail_toMontgomery St,40.71942,-74.05099
+Origin,Marin Light Rail,Marin Light Rail_toMorris Canal,40.71458404,-74.04281706
+Destination,Morris Canal,Marin Light Rail_toMorris Canal,40.71241882,-74.03852552
+Origin,Marin Light Rail,Marin Light Rail_toNewark Ave,40.71458404,-74.04281706
+Destination,Newark Ave,Marin Light Rail_toNewark Ave,40.72152515,-74.04630454
+Origin,Marin Light Rail,Marin Light Rail_toNewport PATH,40.71458404,-74.04281706
+Destination,Newport PATH,Marin Light Rail_toNewport PATH,40.7272235,-74.0337589
+Origin,Marin Light Rail,Marin Light Rail_toNewport Pkwy,40.71458404,-74.04281706
+Destination,Newport Pkwy,Marin Light Rail_toNewport Pkwy,40.7287448,-74.0321082
+Origin,Marin Light Rail,Marin Light Rail_toOakland Ave,40.71458404,-74.04281706
+Destination,Oakland Ave,Marin Light Rail_toOakland Ave,40.7376037,-74.0524783
+Origin,Marin Light Rail,Marin Light Rail_toPaulus Hook,40.71458404,-74.04281706
+Destination,Paulus Hook,Marin Light Rail_toPaulus Hook,40.7141454,-74.0335519
+Origin,Marin Light Rail,Marin Light Rail_toPershing Field,40.71458404,-74.04281706
+Destination,Pershing Field,Marin Light Rail_toPershing Field,40.74267714,-74.05178863
+Origin,Marin Light Rail,Marin Light Rail_toRiverview Park,40.71458404,-74.04281706
+Destination,Riverview Park,Marin Light Rail_toRiverview Park,40.7443187,-74.0439909
+Origin,Marin Light Rail,Marin Light Rail_toVan Vorst Park,40.71458404,-74.04281706
+Destination,Van Vorst Park,Marin Light Rail_toVan Vorst Park,40.71848892,-74.04772663
+Origin,Marin Light Rail,Marin Light Rail_toW 20 St & 11 Ave,40.71458404,-74.04281706
+Destination,W 20 St & 11 Ave,Marin Light Rail_toW 20 St & 11 Ave,40.746745,-74.007756
+Origin,Marin Light Rail,Marin Light Rail_toWarren St,40.71458404,-74.04281706
+Destination,Warren St,Marin Light Rail_toWarren St,40.7211236,-74.03805095
+Origin,Marin Light Rail,Marin Light Rail_toWashington St,40.71458404,-74.04281706
+Destination,Washington St,Marin Light Rail_toWashington St,40.7242941,-74.0354826
+Origin,Marin Light Rail,Marin Light Rail_toYork St,40.71458404,-74.04281706
+Destination,York St,Marin Light Rail_toYork St,40.71649,-74.04105
+Origin,Morris Canal,Morris Canal_toMorris Canal,40.71241882,-74.03852552
+Destination,Morris Canal,Morris Canal_toMorris Canal,40.71774949,-74.03807937
+Origin,Morris Canal,Morris Canal_to12 Ave & W 40 St,40.71241882,-74.03852552
+Destination,12 Ave & W 40 St,Morris Canal_to12 Ave & W 40 St,40.76087502,-74.00277668
+Origin,Morris Canal,Morris Canal_toBaldwin at Montgomery,40.71241882,-74.03852552
+Destination,Baldwin at Montgomery,Morris Canal_toBaldwin at Montgomery,40.7236589,-74.0641943
+Origin,Morris Canal,Morris Canal_toBrunswick & 6th,40.71241882,-74.03852552
+Destination,Brunswick & 6th,Morris Canal_toBrunswick & 6th,40.72601173,-74.05038893
+Origin,Morris Canal,Morris Canal_toBrunswick St,40.71241882,-74.03852552
+Destination,Brunswick St,Morris Canal_toBrunswick St,40.7241765,-74.0506564
+Origin,Morris Canal,Morris Canal_toChrist Hospital,40.71241882,-74.03852552
+Destination,Christ Hospital,Morris Canal_toChrist Hospital,40.73478582,-74.05044364
+Origin,Morris Canal,Morris Canal_toCity Hall,40.71241882,-74.03852552
+Destination,City Hall,Morris Canal_toCity Hall,40.7177325,-74.043845
+Origin,Morris Canal,Morris Canal_toColumbus Drive,40.71241882,-74.03852552
+Destination,Columbus Drive,Morris Canal_toColumbus Drive,40.7183552,-74.03891444
+Origin,Morris Canal,Morris Canal_toDixon Mills,40.71241882,-74.03852552
+Destination,Dixon Mills,Morris Canal_toDixon Mills,40.72163014,-74.04996783
+Origin,Morris Canal,Morris Canal_toEssex Light Rail,40.71241882,-74.03852552
+Destination,Essex Light Rail,Morris Canal_toEssex Light Rail,40.7127742,-74.0364857
+Origin,Morris Canal,Morris Canal_toExchange Place,40.71241882,-74.03852552
+Destination,Exchange Place,Morris Canal_toExchange Place,40.7162469,-74.0334588
+Origin,Morris Canal,Morris Canal_toFairmount Ave,40.71241882,-74.03852552
+Destination,Fairmount Ave,Morris Canal_toFairmount Ave,40.72572614,-74.07195926
+Origin,Morris Canal,Morris Canal_toGrand St,40.71241882,-74.03852552
+Destination,Grand St,Morris Canal_toGrand St,40.71517768,-74.03768331
+Origin,Morris Canal,Morris Canal_toGrove St PATH,40.71241882,-74.03852552
+Destination,Grove St PATH,Morris Canal_toGrove St PATH,40.71958612,-74.04311746
+Origin,Morris Canal,Morris Canal_toHamilton Park,40.71241882,-74.03852552
+Destination,Hamilton Park,Morris Canal_toHamilton Park,40.72759597,-74.04424731
+Origin,Morris Canal,Morris Canal_toHarborside,40.71241882,-74.03852552
+Destination,Harborside,Morris Canal_toHarborside,40.7192517,-74.034234
+Origin,Morris Canal,Morris Canal_toHeights Elevator,40.71241882,-74.03852552
+Destination,Heights Elevator,Morris Canal_toHeights Elevator,40.74871595,-74.0404433
+Origin,Morris Canal,Morris Canal_toHilltop,40.71241882,-74.03852552
+Destination,Hilltop,Morris Canal_toHilltop,40.7311689,-74.0575736
+Origin,Morris Canal,Morris Canal_toJC Medical Center,40.71241882,-74.03852552
+Destination,JC Medical Center,Morris Canal_toJC Medical Center,40.71653978,-74.04963791
+Origin,Morris Canal,Morris Canal_toJersey & 3rd,40.71241882,-74.03852552
+Destination,Jersey & 3rd,Morris Canal_toJersey & 3rd,40.72333159,-74.04595256
+Origin,Morris Canal,Morris Canal_toJersey & 6th St,40.71241882,-74.03852552
+Destination,Jersey & 6th St,Morris Canal_toJersey & 6th St,40.72528911,-74.04557168
+Origin,Morris Canal,Morris Canal_toJournal Square,40.71241882,-74.03852552
+Destination,Journal Square,Morris Canal_toJournal Square,40.73367,-74.0625
+Origin,Morris Canal,Morris Canal_toLafayette Park,40.71241882,-74.03852552
+Destination,Lafayette Park,Morris Canal_toLafayette Park,40.71346383,-74.06285852
+Origin,Morris Canal,Morris Canal_toLeonard Gordon Park,40.71241882,-74.03852552
+Destination,Leonard Gordon Park,Morris Canal_toLeonard Gordon Park,40.74590997,-74.05727148
+Origin,Morris Canal,Morris Canal_toLiberty Light Rail,40.71241882,-74.03852552
+Destination,Liberty Light Rail,Morris Canal_toLiberty Light Rail,40.7112423,-74.0557013
+Origin,Morris Canal,Morris Canal_toManila & 1st,40.71241882,-74.03852552
+Destination,Manila & 1st,Morris Canal_toManila & 1st,40.72165072,-74.04288411
+Origin,Morris Canal,Morris Canal_toMarin Light Rail,40.71241882,-74.03852552
+Destination,Marin Light Rail,Morris Canal_toMarin Light Rail,40.71458404,-74.04281706
+Origin,Morris Canal,Morris Canal_toMcGinley Square,40.71241882,-74.03852552
+Destination,McGinley Square,Morris Canal_toMcGinley Square,40.72533993,-74.06762213
+Origin,Morris Canal,Morris Canal_toMonmouth and 6th,40.71241882,-74.03852552
+Destination,Monmouth and 6th,Morris Canal_toMonmouth and 6th,40.72568548,-74.04879034
+Origin,Morris Canal,Morris Canal_toMontgomery St,40.71241882,-74.03852552
+Destination,Montgomery St,Morris Canal_toMontgomery St,40.71942,-74.05099
+Origin,Morris Canal,Morris Canal_toMorris Canal,40.71241882,-74.03852552
+Destination,Morris Canal,Morris Canal_toMorris Canal,40.71241882,-74.03852552
+Origin,Morris Canal,Morris Canal_toNewark Ave,40.71241882,-74.03852552
+Destination,Newark Ave,Morris Canal_toNewark Ave,40.72152515,-74.04630454
+Origin,Morris Canal,Morris Canal_toNewport PATH,40.71241882,-74.03852552
+Destination,Newport PATH,Morris Canal_toNewport PATH,40.7272235,-74.0337589
+Origin,Morris Canal,Morris Canal_toNewport Pkwy,40.71241882,-74.03852552
+Destination,Newport Pkwy,Morris Canal_toNewport Pkwy,40.7287448,-74.0321082
+Origin,Morris Canal,Morris Canal_toOakland Ave,40.71241882,-74.03852552
+Destination,Oakland Ave,Morris Canal_toOakland Ave,40.7376037,-74.0524783
+Origin,Morris Canal,Morris Canal_toOld Slip & Front St,40.71241882,-74.03852552
+Destination,Old Slip & Front St,Morris Canal_toOld Slip & Front St,40.7037992,-74.00838676
+Origin,Morris Canal,Morris Canal_toPaulus Hook,40.71241882,-74.03852552
+Destination,Paulus Hook,Morris Canal_toPaulus Hook,40.7141454,-74.0335519
+Origin,Morris Canal,Morris Canal_toPershing Field,40.71241882,-74.03852552
+Destination,Pershing Field,Morris Canal_toPershing Field,40.74267714,-74.05178863
+Origin,Morris Canal,Morris Canal_toSip Ave,40.71241882,-74.03852552
+Destination,Sip Ave,Morris Canal_toSip Ave,40.7308971,-74.06391263
+Origin,Morris Canal,Morris Canal_toUnion St,40.71241882,-74.03852552
+Destination,Union St,Morris Canal_toUnion St,40.7182113,-74.0836394
+Origin,Morris Canal,Morris Canal_toVan Vorst Park,40.71241882,-74.03852552
+Destination,Van Vorst Park,Morris Canal_toVan Vorst Park,40.71848892,-74.04772663
+Origin,Morris Canal,Morris Canal_toVesey Pl & River Terrace,40.71241882,-74.03852552
+Destination,Vesey Pl & River Terrace,Morris Canal_toVesey Pl & River Terrace,40.7153379,-74.01658354
+Origin,Morris Canal,Morris Canal_toWarren St,40.71241882,-74.03852552
+Destination,Warren St,Morris Canal_toWarren St,40.7211236,-74.03805095
+Origin,Morris Canal,Morris Canal_toWashington St,40.71241882,-74.03852552
+Destination,Washington St,Morris Canal_toWashington St,40.7242941,-74.0354826
+Origin,Morris Canal,Morris Canal_toYork St,40.71241882,-74.03852552
+Destination,York St,Morris Canal_toYork St,40.71649,-74.04105
+Origin,Newport PATH,Newport PATH_to_Newport PATH,40.7272235,-74.0337589
+Destination,Newport PATH,Newport PATH_to_Newport PATH,40.7272235,-74.0337589
+Origin,Newport PATH,Newport PATH_to_5 Corners Library,40.7272235,-74.0337589
+Destination,5 Corners Library,Newport PATH_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Newport PATH,Newport PATH_to_Amsterdam Ave & W 125 St,40.7272235,-74.0337589
+Destination,Amsterdam Ave & W 125 St,Newport PATH_to_Amsterdam Ave & W 125 St,40.813358,-73.956461
+Origin,Newport PATH,Newport PATH_to_Astor Place,40.7272235,-74.0337589
+Destination,Astor Place,Newport PATH_to_Astor Place,40.7192822,-74.07126188
+Origin,Newport PATH,Newport PATH_to_Baldwin at Montgomery,40.7272235,-74.0337589
+Destination,Baldwin at Montgomery,Newport PATH_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Newport PATH,Newport PATH_to_Bergen Ave,40.7272235,-74.0337589
+Destination,Bergen Ave,Newport PATH_to_Bergen Ave,40.72210379,-74.071455
+Origin,Newport PATH,Newport PATH_to_Brunswick & 6th,40.7272235,-74.0337589
+Destination,Brunswick & 6th,Newport PATH_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Newport PATH,Newport PATH_to_Brunswick St,40.7272235,-74.0337589
+Destination,Brunswick St,Newport PATH_to_Brunswick St,40.7241765,-74.0506564
+Origin,Newport PATH,Newport PATH_to_Christ Hospital,40.7272235,-74.0337589
+Destination,Christ Hospital,Newport PATH_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Newport PATH,Newport PATH_to_City Hall,40.7272235,-74.0337589
+Destination,City Hall,Newport PATH_to_City Hall,40.7177325,-74.043845
+Origin,Newport PATH,Newport PATH_to_Columbus Drive,40.7272235,-74.0337589
+Destination,Columbus Drive,Newport PATH_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Newport PATH,Newport PATH_to_Communipaw & Berry Lane,40.7272235,-74.0337589
+Destination,Communipaw & Berry Lane,Newport PATH_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Newport PATH,Newport PATH_to_Dey St,40.7272235,-74.0337589
+Destination,Dey St,Newport PATH_to_Dey St,40.737711,-74.066921
+Origin,Newport PATH,Newport PATH_to_Dixon Mills,40.7272235,-74.0337589
+Destination,Dixon Mills,Newport PATH_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Newport PATH,Newport PATH_to_Essex Light Rail,40.7272235,-74.0337589
+Destination,Essex Light Rail,Newport PATH_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Newport PATH,Newport PATH_to_Exchange Place,40.7272235,-74.0337589
+Destination,Exchange Place,Newport PATH_to_Exchange Place,40.7162469,-74.0334588
+Origin,Newport PATH,Newport PATH_to_Fairmount Ave,40.7272235,-74.0337589
+Destination,Fairmount Ave,Newport PATH_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Newport PATH,Newport PATH_to_Grand St,40.7272235,-74.0337589
+Destination,Grand St,Newport PATH_to_Grand St,40.71517768,-74.03768331
+Origin,Newport PATH,Newport PATH_to_Grove St PATH,40.7272235,-74.0337589
+Destination,Grove St PATH,Newport PATH_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Newport PATH,Newport PATH_to_Hamilton Park,40.7272235,-74.0337589
+Destination,Hamilton Park,Newport PATH_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Newport PATH,Newport PATH_to_Harborside,40.7272235,-74.0337589
+Destination,Harborside,Newport PATH_to_Harborside,40.7192517,-74.034234
+Origin,Newport PATH,Newport PATH_to_Heights Elevator,40.7272235,-74.0337589
+Destination,Heights Elevator,Newport PATH_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Newport PATH,Newport PATH_to_Hilltop,40.7272235,-74.0337589
+Destination,Hilltop,Newport PATH_to_Hilltop,40.7311689,-74.0575736
+Origin,Newport PATH,Newport PATH_to_Hoboken Ave at Monmouth St,40.7272235,-74.0337589
+Destination,Hoboken Ave at Monmouth St,Newport PATH_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Newport PATH,Newport PATH_to_Jackson Square,40.7272235,-74.0337589
+Destination,Jackson Square,Newport PATH_to_Jackson Square,40.71113,-74.0789
+Origin,Newport PATH,Newport PATH_to_JC Medical Center,40.7272235,-74.0337589
+Destination,JC Medical Center,Newport PATH_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Newport PATH,Newport PATH_to_JCBS Depot,40.7272235,-74.0337589
+Destination,JCBS Depot,Newport PATH_to_JCBS Depot,40.70965083,-74.06860113
+Origin,Newport PATH,Newport PATH_to_Jersey & 3rd,40.7272235,-74.0337589
+Destination,Jersey & 3rd,Newport PATH_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Newport PATH,Newport PATH_to_Jersey & 6th St,40.7272235,-74.0337589
+Destination,Jersey & 6th St,Newport PATH_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Newport PATH,Newport PATH_to_Journal Square,40.7272235,-74.0337589
+Destination,Journal Square,Newport PATH_to_Journal Square,40.73367,-74.0625
+Origin,Newport PATH,Newport PATH_to_Lafayette Park,40.7272235,-74.0337589
+Destination,Lafayette Park,Newport PATH_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Newport PATH,Newport PATH_to_Leonard Gordon Park,40.7272235,-74.0337589
+Destination,Leonard Gordon Park,Newport PATH_to_Leonard Gordon Park,40.74590997,-74.05727148
+Origin,Newport PATH,Newport PATH_to_Liberty Light Rail,40.7272235,-74.0337589
+Destination,Liberty Light Rail,Newport PATH_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Newport PATH,Newport PATH_to_Manila & 1st,40.7272235,-74.0337589
+Destination,Manila & 1st,Newport PATH_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Newport PATH,Newport PATH_to_Marin Light Rail,40.7272235,-74.0337589
+Destination,Marin Light Rail,Newport PATH_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Newport PATH,Newport PATH_to_McGinley Square,40.7272235,-74.0337589
+Destination,McGinley Square,Newport PATH_to_McGinley Square,40.72533993,-74.06762213
+Origin,Newport PATH,Newport PATH_to_Monmouth and 6th,40.7272235,-74.0337589
+Destination,Monmouth and 6th,Newport PATH_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Newport PATH,Newport PATH_to_Montgomery St,40.7272235,-74.0337589
+Destination,Montgomery St,Newport PATH_to_Montgomery St,40.71942,-74.05099
+Origin,Newport PATH,Newport PATH_to_Morris Canal,40.7272235,-74.0337589
+Destination,Morris Canal,Newport PATH_to_Morris Canal,40.71241882,-74.03852552
+Origin,Newport PATH,Newport PATH_to_Newark Ave,40.7272235,-74.0337589
+Destination,Newark Ave,Newport PATH_to_Newark Ave,40.72152515,-74.04630454
+Origin,Newport PATH,Newport PATH_to_Newport PATH,40.7272235,-74.0337589
+Destination,Newport PATH,Newport PATH_to_Newport PATH,40.7272235,-74.0337589
+Origin,Newport PATH,Newport PATH_to_Newport Pkwy,40.7272235,-74.0337589
+Destination,Newport Pkwy,Newport PATH_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Newport PATH,Newport PATH_to_Oakland Ave,40.7272235,-74.0337589
+Destination,Oakland Ave,Newport PATH_to_Oakland Ave,40.7376037,-74.0524783
+Origin,Newport PATH,Newport PATH_to_Paulus Hook,40.7272235,-74.0337589
+Destination,Paulus Hook,Newport PATH_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Newport PATH,Newport PATH_to_Pershing Field,40.7272235,-74.0337589
+Destination,Pershing Field,Newport PATH_to_Pershing Field,40.74267714,-74.05178863
+Origin,Newport PATH,Newport PATH_to_Riverview Park,40.7272235,-74.0337589
+Destination,Riverview Park,Newport PATH_to_Riverview Park,40.7443187,-74.0439909
+Origin,Newport PATH,Newport PATH_to_Sip Ave,40.7272235,-74.0337589
+Destination,Sip Ave,Newport PATH_to_Sip Ave,40.7308971,-74.06391263
+Origin,Newport PATH,Newport PATH_to_Union St,40.7272235,-74.0337589
+Destination,Union St,Newport PATH_to_Union St,40.7182113,-74.0836394
+Origin,Newport PATH,Newport PATH_to_Van Vorst Park,40.7272235,-74.0337589
+Destination,Van Vorst Park,Newport PATH_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Newport PATH,Newport PATH_to_Warren St,40.7272235,-74.0337589
+Destination,Warren St,Newport PATH_to_Warren St,40.7211236,-74.03805095
+Origin,Newport PATH,Newport PATH_to_Washington St,40.7272235,-74.0337589
+Destination,Washington St,Newport PATH_to_Washington St,40.7242941,-74.0354826
+Origin,Newport PATH,Newport PATH_to_York St,40.7272235,-74.0337589
+Destination,York St,Newport PATH_to_York St,40.71649,-74.04105
+Origin,Newport Pkwy,Newport Pkwy_to_Newport Pkwy,40.7287448,-74.0321082
+Destination,Newport Pkwy,Newport Pkwy_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Newport Pkwy,Newport Pkwy_to_1 Ave & E 16 St,40.7287448,-74.0321082
+Destination,1 Ave & E 16 St,Newport Pkwy_to_1 Ave & E 16 St,40.73221853,-73.98165557
+Origin,Newport Pkwy,Newport Pkwy_to_5 Corners Library,40.7287448,-74.0321082
+Destination,5 Corners Library,Newport Pkwy_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Newport Pkwy,Newport Pkwy_to_Astor Place,40.7287448,-74.0321082
+Destination,Astor Place,Newport Pkwy_to_Astor Place,40.7192822,-74.07126188
+Origin,Newport Pkwy,Newport Pkwy_to_Baldwin at Montgomery,40.7287448,-74.0321082
+Destination,Baldwin at Montgomery,Newport Pkwy_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Newport Pkwy,Newport Pkwy_to_Brunswick & 6th,40.7287448,-74.0321082
+Destination,Brunswick & 6th,Newport Pkwy_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Newport Pkwy,Newport Pkwy_to_Brunswick St,40.7287448,-74.0321082
+Destination,Brunswick St,Newport Pkwy_to_Brunswick St,40.7241765,-74.0506564
+Origin,Newport Pkwy,Newport Pkwy_to_Christ Hospital,40.7287448,-74.0321082
+Destination,Christ Hospital,Newport Pkwy_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Newport Pkwy,Newport Pkwy_to_City Hall,40.7287448,-74.0321082
+Destination,City Hall,Newport Pkwy_to_City Hall,40.7177325,-74.043845
+Origin,Newport Pkwy,Newport Pkwy_to_Columbus Drive,40.7287448,-74.0321082
+Destination,Columbus Drive,Newport Pkwy_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Newport Pkwy,Newport Pkwy_to_Communipaw & Berry Lane,40.7287448,-74.0321082
+Destination,Communipaw & Berry Lane,Newport Pkwy_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Newport Pkwy,Newport Pkwy_to_Dixon Mills,40.7287448,-74.0321082
+Destination,Dixon Mills,Newport Pkwy_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Newport Pkwy,Newport Pkwy_to_Essex Light Rail,40.7287448,-74.0321082
+Destination,Essex Light Rail,Newport Pkwy_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Newport Pkwy,Newport Pkwy_to_Exchange Place,40.7287448,-74.0321082
+Destination,Exchange Place,Newport Pkwy_to_Exchange Place,40.7162469,-74.0334588
+Origin,Newport Pkwy,Newport Pkwy_to_Fairmount Ave,40.7287448,-74.0321082
+Destination,Fairmount Ave,Newport Pkwy_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Newport Pkwy,Newport Pkwy_to_Glenwood Ave,40.7287448,-74.0321082
+Destination,Glenwood Ave,Newport Pkwy_to_Glenwood Ave,40.72755147,-74.07106072
+Origin,Newport Pkwy,Newport Pkwy_to_Grand St,40.7287448,-74.0321082
+Destination,Grand St,Newport Pkwy_to_Grand St,40.71517768,-74.03768331
+Origin,Newport Pkwy,Newport Pkwy_to_Grove St PATH,40.7287448,-74.0321082
+Destination,Grove St PATH,Newport Pkwy_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Newport Pkwy,Newport Pkwy_to_Hamilton Park,40.7287448,-74.0321082
+Destination,Hamilton Park,Newport Pkwy_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Newport Pkwy,Newport Pkwy_to_Harborside,40.7287448,-74.0321082
+Destination,Harborside,Newport Pkwy_to_Harborside,40.7192517,-74.034234
+Origin,Newport Pkwy,Newport Pkwy_to_Heights Elevator,40.7287448,-74.0321082
+Destination,Heights Elevator,Newport Pkwy_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Newport Pkwy,Newport Pkwy_to_Hilltop,40.7287448,-74.0321082
+Destination,Hilltop,Newport Pkwy_to_Hilltop,40.7311689,-74.0575736
+Origin,Newport Pkwy,Newport Pkwy_to_Hoboken Ave at Monmouth St,40.7287448,-74.0321082
+Destination,Hoboken Ave at Monmouth St,Newport Pkwy_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Newport Pkwy,Newport Pkwy_to_Jackson Square,40.7287448,-74.0321082
+Destination,Jackson Square,Newport Pkwy_to_Jackson Square,40.71113,-74.0789
+Origin,Newport Pkwy,Newport Pkwy_to_JC Medical Center,40.7287448,-74.0321082
+Destination,JC Medical Center,Newport Pkwy_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Newport Pkwy,Newport Pkwy_to_JCBS Depot,40.7287448,-74.0321082
+Destination,JCBS Depot,Newport Pkwy_to_JCBS Depot,40.70965083,-74.06860113
+Origin,Newport Pkwy,Newport Pkwy_to_Jersey & 3rd,40.7287448,-74.0321082
+Destination,Jersey & 3rd,Newport Pkwy_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Newport Pkwy,Newport Pkwy_to_Jersey & 6th St,40.7287448,-74.0321082
+Destination,Jersey & 6th St,Newport Pkwy_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Newport Pkwy,Newport Pkwy_to_Journal Square,40.7287448,-74.0321082
+Destination,Journal Square,Newport Pkwy_to_Journal Square,40.73367,-74.0625
+Origin,Newport Pkwy,Newport Pkwy_to_Lafayette Park,40.7287448,-74.0321082
+Destination,Lafayette Park,Newport Pkwy_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Newport Pkwy,Newport Pkwy_to_Leonard Gordon Park,40.7287448,-74.0321082
+Destination,Leonard Gordon Park,Newport Pkwy_to_Leonard Gordon Park,40.74590997,-74.05727148
+Origin,Newport Pkwy,Newport Pkwy_to_Liberty Light Rail,40.7287448,-74.0321082
+Destination,Liberty Light Rail,Newport Pkwy_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Newport Pkwy,Newport Pkwy_to_Lincoln Park,40.7287448,-74.0321082
+Destination,Lincoln Park,Newport Pkwy_to_Lincoln Park,40.7246051,-74.07840595
+Origin,Newport Pkwy,Newport Pkwy_to_Manila & 1st,40.7287448,-74.0321082
+Destination,Manila & 1st,Newport Pkwy_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Newport Pkwy,Newport Pkwy_to_Marin Light Rail,40.7287448,-74.0321082
+Destination,Marin Light Rail,Newport Pkwy_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Newport Pkwy,Newport Pkwy_to_McGinley Square,40.7287448,-74.0321082
+Destination,McGinley Square,Newport Pkwy_to_McGinley Square,40.72533993,-74.06762213
+Origin,Newport Pkwy,Newport Pkwy_to_Monmouth and 6th,40.7287448,-74.0321082
+Destination,Monmouth and 6th,Newport Pkwy_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Newport Pkwy,Newport Pkwy_to_Montgomery St,40.7287448,-74.0321082
+Destination,Montgomery St,Newport Pkwy_to_Montgomery St,40.71942,-74.05099
+Origin,Newport Pkwy,Newport Pkwy_to_Morris Canal,40.7287448,-74.0321082
+Destination,Morris Canal,Newport Pkwy_to_Morris Canal,40.71241882,-74.03852552
+Origin,Newport Pkwy,Newport Pkwy_to_Newark Ave,40.7287448,-74.0321082
+Destination,Newark Ave,Newport Pkwy_to_Newark Ave,40.72152515,-74.04630454
+Origin,Newport Pkwy,Newport Pkwy_to_Newport PATH,40.7287448,-74.0321082
+Destination,Newport PATH,Newport Pkwy_to_Newport PATH,40.7272235,-74.0337589
+Origin,Newport Pkwy,Newport Pkwy_to_Newport Pkwy,40.7287448,-74.0321082
+Destination,Newport Pkwy,Newport Pkwy_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Newport Pkwy,Newport Pkwy_to_Oakland Ave,40.7287448,-74.0321082
+Destination,Oakland Ave,Newport Pkwy_to_Oakland Ave,40.7376037,-74.0524783
+Origin,Newport Pkwy,Newport Pkwy_to_Paulus Hook,40.7287448,-74.0321082
+Destination,Paulus Hook,Newport Pkwy_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Newport Pkwy,Newport Pkwy_to_Pershing Field,40.7287448,-74.0321082
+Destination,Pershing Field,Newport Pkwy_to_Pershing Field,40.74267714,-74.05178863
+Origin,Newport Pkwy,Newport Pkwy_to_Riverview Park,40.7287448,-74.0321082
+Destination,Riverview Park,Newport Pkwy_to_Riverview Park,40.7443187,-74.0439909
+Origin,Newport Pkwy,Newport Pkwy_to_Sip Ave,40.7287448,-74.0321082
+Destination,Sip Ave,Newport Pkwy_to_Sip Ave,40.7308971,-74.06391263
+Origin,Newport Pkwy,Newport Pkwy_to_Van Vorst Park,40.7287448,-74.0321082
+Destination,Van Vorst Park,Newport Pkwy_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Newport Pkwy,Newport Pkwy_to_Warren St,40.7287448,-74.0321082
+Destination,Warren St,Newport Pkwy_to_Warren St,40.7211236,-74.03805095
+Origin,Newport Pkwy,Newport Pkwy_to_Washington St,40.7287448,-74.0321082
+Destination,Washington St,Newport Pkwy_to_Washington St,40.7242941,-74.0354826
+Origin,Newport Pkwy,Newport Pkwy_to_York St,40.7287448,-74.0321082
+Destination,York St,Newport Pkwy_to_York St,40.71649,-74.04105
+Origin,Paulus Hook,Paulus Hook_to_Paulus Hook,40.7141454,-74.0335519
+Destination,Paulus Hook,Paulus Hook_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Paulus Hook,Paulus Hook_to_5 Corners Library,40.7141454,-74.0335519
+Destination,5 Corners Library,Paulus Hook_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Paulus Hook,Paulus Hook_to_Astor Place,40.7141454,-74.0335519
+Destination,Astor Place,Paulus Hook_to_Astor Place,40.7192822,-74.07126188
+Origin,Paulus Hook,Paulus Hook_to_Baldwin at Montgomery,40.7141454,-74.0335519
+Destination,Baldwin at Montgomery,Paulus Hook_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Paulus Hook,Paulus Hook_to_Bergen Ave,40.7141454,-74.0335519
+Destination,Bergen Ave,Paulus Hook_to_Bergen Ave,40.72210379,-74.071455
+Origin,Paulus Hook,Paulus Hook_to_Brunswick & 6th,40.7141454,-74.0335519
+Destination,Brunswick & 6th,Paulus Hook_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Paulus Hook,Paulus Hook_to_Brunswick St,40.7141454,-74.0335519
+Destination,Brunswick St,Paulus Hook_to_Brunswick St,40.7241765,-74.0506564
+Origin,Paulus Hook,Paulus Hook_to_Christ Hospital,40.7141454,-74.0335519
+Destination,Christ Hospital,Paulus Hook_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Paulus Hook,Paulus Hook_to_City Hall,40.7141454,-74.0335519
+Destination,City Hall,Paulus Hook_to_City Hall,40.7177325,-74.043845
+Origin,Paulus Hook,Paulus Hook_to_Columbus Drive,40.7141454,-74.0335519
+Destination,Columbus Drive,Paulus Hook_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Paulus Hook,Paulus Hook_to_Communipaw & Berry Lane,40.7141454,-74.0335519
+Destination,Communipaw & Berry Lane,Paulus Hook_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Paulus Hook,Paulus Hook_to_Dey St,40.7141454,-74.0335519
+Destination,Dey St,Paulus Hook_to_Dey St,40.737711,-74.066921
+Origin,Paulus Hook,Paulus Hook_to_Dixon Mills,40.7141454,-74.0335519
+Destination,Dixon Mills,Paulus Hook_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Paulus Hook,Paulus Hook_to_Essex Light Rail,40.7141454,-74.0335519
+Destination,Essex Light Rail,Paulus Hook_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Paulus Hook,Paulus Hook_to_Exchange Place,40.7141454,-74.0335519
+Destination,Exchange Place,Paulus Hook_to_Exchange Place,40.7162469,-74.0334588
+Origin,Paulus Hook,Paulus Hook_to_Fairmount Ave,40.7141454,-74.0335519
+Destination,Fairmount Ave,Paulus Hook_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Paulus Hook,Paulus Hook_to_Gansevoort St & Hudson St,40.7141454,-74.0335519
+Destination,Gansevoort St & Hudson St,Paulus Hook_to_Gansevoort St & Hudson St,40.7394482,-74.00507033
+Origin,Paulus Hook,Paulus Hook_to_Glenwood Ave,40.7141454,-74.0335519
+Destination,Glenwood Ave,Paulus Hook_to_Glenwood Ave,40.72755147,-74.07106072
+Origin,Paulus Hook,Paulus Hook_to_Grand St,40.7141454,-74.0335519
+Destination,Grand St,Paulus Hook_to_Grand St,40.71517768,-74.03768331
+Origin,Paulus Hook,Paulus Hook_to_Grove St PATH,40.7141454,-74.0335519
+Destination,Grove St PATH,Paulus Hook_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Paulus Hook,Paulus Hook_to_Hamilton Park,40.7141454,-74.0335519
+Destination,Hamilton Park,Paulus Hook_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Paulus Hook,Paulus Hook_to_Harborside,40.7141454,-74.0335519
+Destination,Harborside,Paulus Hook_to_Harborside,40.7192517,-74.034234
+Origin,Paulus Hook,Paulus Hook_to_Heights Elevator,40.7141454,-74.0335519
+Destination,Heights Elevator,Paulus Hook_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Paulus Hook,Paulus Hook_to_Hilltop,40.7141454,-74.0335519
+Destination,Hilltop,Paulus Hook_to_Hilltop,40.7311689,-74.0575736
+Origin,Paulus Hook,Paulus Hook_to_Hoboken Ave at Monmouth St,40.7141454,-74.0335519
+Destination,Hoboken Ave at Monmouth St,Paulus Hook_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Paulus Hook,Paulus Hook_to_Jackson Square,40.7141454,-74.0335519
+Destination,Jackson Square,Paulus Hook_to_Jackson Square,40.71113,-74.0789
+Origin,Paulus Hook,Paulus Hook_to_JC Medical Center,40.7141454,-74.0335519
+Destination,JC Medical Center,Paulus Hook_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Paulus Hook,Paulus Hook_to_Jersey & 3rd,40.7141454,-74.0335519
+Destination,Jersey & 3rd,Paulus Hook_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Paulus Hook,Paulus Hook_to_Jersey & 6th St,40.7141454,-74.0335519
+Destination,Jersey & 6th St,Paulus Hook_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Paulus Hook,Paulus Hook_to_Journal Square,40.7141454,-74.0335519
+Destination,Journal Square,Paulus Hook_to_Journal Square,40.73367,-74.0625
+Origin,Paulus Hook,Paulus Hook_to_Lafayette Park,40.7141454,-74.0335519
+Destination,Lafayette Park,Paulus Hook_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Paulus Hook,Paulus Hook_to_Leonard Gordon Park,40.7141454,-74.0335519
+Destination,Leonard Gordon Park,Paulus Hook_to_Leonard Gordon Park,40.74590997,-74.05727148
+Origin,Paulus Hook,Paulus Hook_to_Liberty Light Rail,40.7141454,-74.0335519
+Destination,Liberty Light Rail,Paulus Hook_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Paulus Hook,Paulus Hook_to_Manila & 1st,40.7141454,-74.0335519
+Destination,Manila & 1st,Paulus Hook_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Paulus Hook,Paulus Hook_to_Marin Light Rail,40.7141454,-74.0335519
+Destination,Marin Light Rail,Paulus Hook_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Paulus Hook,Paulus Hook_to_McGinley Square,40.7141454,-74.0335519
+Destination,McGinley Square,Paulus Hook_to_McGinley Square,40.72533993,-74.06762213
+Origin,Paulus Hook,Paulus Hook_to_Monmouth and 6th,40.7141454,-74.0335519
+Destination,Monmouth and 6th,Paulus Hook_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Paulus Hook,Paulus Hook_to_Montgomery St,40.7141454,-74.0335519
+Destination,Montgomery St,Paulus Hook_to_Montgomery St,40.71942,-74.05099
+Origin,Paulus Hook,Paulus Hook_to_Morris Canal,40.7141454,-74.0335519
+Destination,Morris Canal,Paulus Hook_to_Morris Canal,40.71241882,-74.03852552
+Origin,Paulus Hook,Paulus Hook_to_Newark Ave,40.7141454,-74.0335519
+Destination,Newark Ave,Paulus Hook_to_Newark Ave,40.72152515,-74.04630454
+Origin,Paulus Hook,Paulus Hook_to_Newport PATH,40.7141454,-74.0335519
+Destination,Newport PATH,Paulus Hook_to_Newport PATH,40.7272235,-74.0337589
+Origin,Paulus Hook,Paulus Hook_to_Newport Pkwy,40.7141454,-74.0335519
+Destination,Newport Pkwy,Paulus Hook_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Paulus Hook,Paulus Hook_to_Paulus Hook,40.7141454,-74.0335519
+Destination,Paulus Hook,Paulus Hook_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Paulus Hook,Paulus Hook_to_Riverview Park,40.7141454,-74.0335519
+Destination,Riverview Park,Paulus Hook_to_Riverview Park,40.7443187,-74.0439909
+Origin,Paulus Hook,Paulus Hook_to_Sip Ave,40.7141454,-74.0335519
+Destination,Sip Ave,Paulus Hook_to_Sip Ave,40.7308971,-74.06391263
+Origin,Paulus Hook,Paulus Hook_to_Union St,40.7141454,-74.0335519
+Destination,Union St,Paulus Hook_to_Union St,40.7182113,-74.0836394
+Origin,Paulus Hook,Paulus Hook_to_Van Vorst Park,40.7141454,-74.0335519
+Destination,Van Vorst Park,Paulus Hook_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Paulus Hook,Paulus Hook_to_Vesey Pl & River Terrace,40.7141454,-74.0335519
+Destination,Vesey Pl & River Terrace,Paulus Hook_to_Vesey Pl & River Terrace,40.7153379,-74.01658354
+Origin,Paulus Hook,Paulus Hook_to_Warren St,40.7141454,-74.0335519
+Destination,Warren St,Paulus Hook_to_Warren St,40.7211236,-74.03805095
+Origin,Paulus Hook,Paulus Hook_to_Washington St,40.7141454,-74.0335519
+Destination,Washington St,Paulus Hook_to_Washington St,40.7242941,-74.0354826
+Origin,Paulus Hook,Paulus Hook_to_York St,40.7141454,-74.0335519
+Destination,York St,Paulus Hook_to_York St,40.71649,-74.04105
+Origin,Sip Ave,Sip Ave_to_Sip Ave,40.73085707,-74.06387927
+Destination,Sip Ave,Sip Ave_to_Sip Ave,40.73085707,-74.06387927
+Origin,Sip Ave,Sip Ave_to_5 Corners Library,40.73080291,-74.06383413
+Destination,5 Corners Library,Sip Ave_to_5 Corners Library,40.73496102,-74.05950308
+Origin,Sip Ave,Sip Ave_to_Astor Place,40.73080291,-74.06383413
+Destination,Astor Place,Sip Ave_to_Astor Place,40.7192822,-74.07126188
+Origin,Sip Ave,Sip Ave_to_Baldwin at Montgomery,40.73080291,-74.06383413
+Destination,Baldwin at Montgomery,Sip Ave_to_Baldwin at Montgomery,40.7236589,-74.0641943
+Origin,Sip Ave,Sip Ave_to_Bergen Ave,40.73080291,-74.06383413
+Destination,Bergen Ave,Sip Ave_to_Bergen Ave,40.72210379,-74.071455
+Origin,Sip Ave,Sip Ave_to_Brunswick & 6th,40.73080291,-74.06383413
+Destination,Brunswick & 6th,Sip Ave_to_Brunswick & 6th,40.72601173,-74.05038893
+Origin,Sip Ave,Sip Ave_to_Brunswick St,40.73080291,-74.06383413
+Destination,Brunswick St,Sip Ave_to_Brunswick St,40.7241765,-74.0506564
+Origin,Sip Ave,Sip Ave_to_Christ Hospital,40.73080291,-74.06383413
+Destination,Christ Hospital,Sip Ave_to_Christ Hospital,40.73478582,-74.05044364
+Origin,Sip Ave,Sip Ave_to_City Hall,40.73080291,-74.06383413
+Destination,City Hall,Sip Ave_to_City Hall,40.7177325,-74.043845
+Origin,Sip Ave,Sip Ave_to_Columbus Drive,40.73080291,-74.06383413
+Destination,Columbus Drive,Sip Ave_to_Columbus Drive,40.7183552,-74.03891444
+Origin,Sip Ave,Sip Ave_to_Communipaw & Berry Lane,40.73080291,-74.06383413
+Destination,Communipaw & Berry Lane,Sip Ave_to_Communipaw & Berry Lane,40.71435837,-74.06661093
+Origin,Sip Ave,Sip Ave_to_Dey St,40.73080291,-74.06383413
+Destination,Dey St,Sip Ave_to_Dey St,40.737711,-74.066921
+Origin,Sip Ave,Sip Ave_to_Dixon Mills,40.73080291,-74.06383413
+Destination,Dixon Mills,Sip Ave_to_Dixon Mills,40.72163014,-74.04996783
+Origin,Sip Ave,Sip Ave_to_Essex Light Rail,40.73080291,-74.06383413
+Destination,Essex Light Rail,Sip Ave_to_Essex Light Rail,40.7127742,-74.0364857
+Origin,Sip Ave,Sip Ave_to_Exchange Place,40.73080291,-74.06383413
+Destination,Exchange Place,Sip Ave_to_Exchange Place,40.7162469,-74.0334588
+Origin,Sip Ave,Sip Ave_to_Fairmount Ave,40.73080291,-74.06383413
+Destination,Fairmount Ave,Sip Ave_to_Fairmount Ave,40.72572614,-74.07195926
+Origin,Sip Ave,Sip Ave_to_Glenwood Ave,40.73080291,-74.06383413
+Destination,Glenwood Ave,Sip Ave_to_Glenwood Ave,40.72755147,-74.07106072
+Origin,Sip Ave,Sip Ave_to_Grand St,40.73080291,-74.06383413
+Destination,Grand St,Sip Ave_to_Grand St,40.71517768,-74.03768331
+Origin,Sip Ave,Sip Ave_to_Grove St PATH,40.73080291,-74.06383413
+Destination,Grove St PATH,Sip Ave_to_Grove St PATH,40.71958612,-74.04311746
+Origin,Sip Ave,Sip Ave_to_Hamilton Park,40.73080291,-74.06383413
+Destination,Hamilton Park,Sip Ave_to_Hamilton Park,40.72759597,-74.04424731
+Origin,Sip Ave,Sip Ave_to_Harborside,40.73080291,-74.06383413
+Destination,Harborside,Sip Ave_to_Harborside,40.7192517,-74.034234
+Origin,Sip Ave,Sip Ave_to_Heights Elevator,40.73080291,-74.06383413
+Destination,Heights Elevator,Sip Ave_to_Heights Elevator,40.74871595,-74.0404433
+Origin,Sip Ave,Sip Ave_to_Hilltop,40.73080291,-74.06383413
+Destination,Hilltop,Sip Ave_to_Hilltop,40.7311689,-74.0575736
+Origin,Sip Ave,Sip Ave_to_Hoboken Ave at Monmouth St,40.73080291,-74.06383413
+Destination,Hoboken Ave at Monmouth St,Sip Ave_to_Hoboken Ave at Monmouth St,40.73520838,-74.04696375
+Origin,Sip Ave,Sip Ave_to_Jackson Square,40.73080291,-74.06383413
+Destination,Jackson Square,Sip Ave_to_Jackson Square,40.71113,-74.0789
+Origin,Sip Ave,Sip Ave_to_JC Medical Center,40.73080291,-74.06383413
+Destination,JC Medical Center,Sip Ave_to_JC Medical Center,40.71653978,-74.04963791
+Origin,Sip Ave,Sip Ave_to_JCBS Depot,40.73080291,-74.06383413
+Destination,JCBS Depot,Sip Ave_to_JCBS Depot,40.70965083,-74.06860113
+Origin,Sip Ave,Sip Ave_to_Jersey & 3rd,40.73080291,-74.06383413
+Destination,Jersey & 3rd,Sip Ave_to_Jersey & 3rd,40.72333159,-74.04595256
+Origin,Sip Ave,Sip Ave_to_Jersey & 6th St,40.73080291,-74.06383413
+Destination,Jersey & 6th St,Sip Ave_to_Jersey & 6th St,40.72528911,-74.04557168
+Origin,Sip Ave,Sip Ave_to_Journal Square,40.73080291,-74.06383413
+Destination,Journal Square,Sip Ave_to_Journal Square,40.73367,-74.0625
+Origin,Sip Ave,Sip Ave_to_Lafayette Park,40.73080291,-74.06383413
+Destination,Lafayette Park,Sip Ave_to_Lafayette Park,40.71346383,-74.06285852
+Origin,Sip Ave,Sip Ave_to_Leonard Gordon Park,40.73080291,-74.06383413
+Destination,Leonard Gordon Park,Sip Ave_to_Leonard Gordon Park,40.74590997,-74.05727148
+Origin,Sip Ave,Sip Ave_to_Liberty Light Rail,40.73080291,-74.06383413
+Destination,Liberty Light Rail,Sip Ave_to_Liberty Light Rail,40.7112423,-74.0557013
+Origin,Sip Ave,Sip Ave_to_Lincoln Park,40.73080291,-74.06383413
+Destination,Lincoln Park,Sip Ave_to_Lincoln Park,40.7246051,-74.07840595
+Origin,Sip Ave,Sip Ave_to_Manila & 1st,40.73080291,-74.06383413
+Destination,Manila & 1st,Sip Ave_to_Manila & 1st,40.72165072,-74.04288411
+Origin,Sip Ave,Sip Ave_to_Marin Light Rail,40.73080291,-74.06383413
+Destination,Marin Light Rail,Sip Ave_to_Marin Light Rail,40.71458404,-74.04281706
+Origin,Sip Ave,Sip Ave_to_McGinley Square,40.73080291,-74.06383413
+Destination,McGinley Square,Sip Ave_to_McGinley Square,40.72533993,-74.06762213
+Origin,Sip Ave,Sip Ave_to_Monmouth and 6th,40.73080291,-74.06383413
+Destination,Monmouth and 6th,Sip Ave_to_Monmouth and 6th,40.72568548,-74.04879034
+Origin,Sip Ave,Sip Ave_to_Montgomery St,40.73080291,-74.06383413
+Destination,Montgomery St,Sip Ave_to_Montgomery St,40.71942,-74.05099
+Origin,Sip Ave,Sip Ave_to_Morris Canal,40.73080291,-74.06383413
+Destination,Morris Canal,Sip Ave_to_Morris Canal,40.71241882,-74.03852552
+Origin,Sip Ave,Sip Ave_to_Newark Ave,40.73080291,-74.06383413
+Destination,Newark Ave,Sip Ave_to_Newark Ave,40.72152515,-74.04630454
+Origin,Sip Ave,Sip Ave_to_Newport PATH,40.73080291,-74.06383413
+Destination,Newport PATH,Sip Ave_to_Newport PATH,40.7272235,-74.0337589
+Origin,Sip Ave,Sip Ave_to_Newport Pkwy,40.73080291,-74.06383413
+Destination,Newport Pkwy,Sip Ave_to_Newport Pkwy,40.7287448,-74.0321082
+Origin,Sip Ave,Sip Ave_to_Oakland Ave,40.73080291,-74.06383413
+Destination,Oakland Ave,Sip Ave_to_Oakland Ave,40.7376037,-74.0524783
+Origin,Sip Ave,Sip Ave_to_Paulus Hook,40.73080291,-74.06383413
+Destination,Paulus Hook,Sip Ave_to_Paulus Hook,40.7141454,-74.0335519
+Origin,Sip Ave,Sip Ave_to_Pershing Field,40.73080291,-74.06383413
+Destination,Pershing Field,Sip Ave_to_Pershing Field,40.74267714,-74.05178863
+Origin,Sip Ave,Sip Ave_to_Riverview Park,40.73080291,-74.06383413
+Destination,Riverview Park,Sip Ave_to_Riverview Park,40.7443187,-74.0439909
+Origin,Sip Ave,Sip Ave_to_Sip Ave,40.73080291,-74.06383413
+Destination,Sip Ave,Sip Ave_to_Sip Ave,40.73088112,-74.06389931
+Origin,Sip Ave,Sip Ave_to_Union St,40.73080291,-74.06383413
+Destination,Union St,Sip Ave_to_Union St,40.7182113,-74.0836394
+Origin,Sip Ave,Sip Ave_to_Van Vorst Park,40.73080291,-74.06383413
+Destination,Van Vorst Park,Sip Ave_to_Van Vorst Park,40.71848892,-74.04772663
+Origin,Sip Ave,Sip Ave_to_Warren St,40.73080291,-74.06383413
+Destination,Warren St,Sip Ave_to_Warren St,40.7211236,-74.03805095
+Origin,Sip Ave,Sip Ave_to_Washington St,40.73080291,-74.06383413
+Destination,Washington St,Sip Ave_to_Washington St,40.7242941,-74.0354826
+Origin,Sip Ave,Sip Ave_to_York St,40.73080291,-74.06383413
+Destination,York St,Sip Ave_to_York St,40.71649,-74.04105
